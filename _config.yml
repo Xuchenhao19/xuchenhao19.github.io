@@ -6,7 +6,6 @@ email: xuchenhao0536@163.com
 description: "这里是 @xuchenhao 的个人博客， 要做一个普通的中学生 | 要做一个普通的中学生"
 keyword: "徐辰浩, 徐辰浩, xuchenhao"
 url: "https://xuchenhao19.github.io" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
